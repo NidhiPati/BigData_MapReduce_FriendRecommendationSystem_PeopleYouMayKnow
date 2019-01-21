@@ -13,7 +13,7 @@
 * hadoop jar /home/cloudera/workspace/myproject.jar WordCount /user/cloudera/input /user/cloudera/output
 * hadoop fs -get /user/cloudera/output
 * hdfs dfs -ls
-* hdfs dfs -rmr /user/cloudera/output   #to delete
+* hdfs dfs -rmr /user/cloudera/output       #to delete
 
 ## Reference: 
 Maheshwari, Anil. Big Data : Made Accessible - Kindle Edition.
